@@ -12,4 +12,4 @@ Fax: (+48 42) 630-34-14
 
 Email: <mariusz.postol@p.lodz.pl>
 
-www: <it.p.lodz.pl>
+www: <https://it.p.lodz.pl>
