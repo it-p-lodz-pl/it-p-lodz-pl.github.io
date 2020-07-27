@@ -2,8 +2,8 @@
 
 Mariusz Postół Ph. D.
 
-Institute of Information Technology, Lodz University of Technology
 Institute of Information Technology, Lodz University of Technology, Łódź, Poland
+
 90-924  Łódź ul. Wólczańska 215 Poland
 
 Phone: +48 42 632-97-57
